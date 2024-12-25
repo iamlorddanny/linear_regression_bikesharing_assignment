@@ -32,6 +32,9 @@ The plot below showing uniform scatter of error terms for all values of Y valida
 
 Linear relationship: The Y predicted follows the same pattern as that of Y actual and this proves a linear relationship of the model on the training data
 
+## Conclusion
+ The model developed has R squared value of 0.79 and adjusted R Squared value of 0.78, indicating it is a goof model fit to predit demand for the bike sharing platform
+
 ## Technology Used
 
 Python
